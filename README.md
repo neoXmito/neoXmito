@@ -1,6 +1,11 @@
 # Hi there, I'm MALAMA DAVID CHALI 👋
 
+Currently exploring the world of software development, data science, and diving into the exciting fields of **Embedded Systems** and **Edge AI**.
+
+---
+
 ## Languages and Tools:
+
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -8,7 +13,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-### Data Science Tools:
+### Data Science & AI Tools:
+*(Including tools relevant to Edge AI)*
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -16,6 +22,11 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0081A5?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+### Embedded Systems & Edge AI:
+*Fascinated by running AI models directly on hardware. Currently learning and experimenting with:*
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+*Key Languages for Embedded:* C++, Python (MicroPython/CircuitPython)
 
 ### APIs and Documentation Tools:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -28,6 +39,6 @@
 ---
 
 ## Contact Me:
-- **Email**: [chalimalama@gmail.com]
-- **Telephone**: [+212 766829258 ]
+- **Email**: `chalimalama@gmail.com`
+- **Telephone**: `+212 766829258`
 - **GitHub**: [github.com/neoXmito](https://github.com/neoXmito)
