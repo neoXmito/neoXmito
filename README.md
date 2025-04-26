@@ -1,6 +1,6 @@
 # Hi there, I'm MALAMA DAVID CHALI 👋
 
-Currently exploring the world of software development, data science, mecatronics, electronics and diving into the exciting fields of **Embedded Systems** and **Edge AI**.
+Currently an engineer in training , specialising in industrial engineering option artificial intelligence and data science . I'm exploring the world of software development, data science, mecatronics, electronics and diving into the exciting fields of **Embedded Systems** and **Edge AI**.
 
 ---
 
@@ -25,7 +25,8 @@ Currently exploring the world of software development, data science, mecatronics
 *Fascinated by running AI models directly on hardware. Currently learning and experimenting with:*
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
-*Key Languages for Embedded:* C++, Python (MicroPython/CircuitPython)
+
+*Key Languages for Embedded systems :* C++, Python (MicroPython/CircuitPython)
 
 ### APIs and Documentation Tools:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
