@@ -1,6 +1,6 @@
 # Hi there, I'm MALAMA DAVID CHALI 👋
 
-Currently exploring the world of software development, data science, and diving into the exciting fields of **Embedded Systems** and **Edge AI**.
+Currently exploring the world of software development, data science, mecatronics, electronics and diving into the exciting fields of **Embedded Systems** and **Edge AI**.
 
 ---
 
